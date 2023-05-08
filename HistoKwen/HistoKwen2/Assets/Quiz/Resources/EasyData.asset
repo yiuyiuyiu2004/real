@@ -1,0 +1,465 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: EasyData
+  m_EditorClassIdentifier: 
+  categoryName: Easy
+  questions:
+  - questionInfo: Name the person who is known as the first editor of La Solidaridad
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: a7bd0c8144809f643a0862f471c3bb8d, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Graciano Jaena
+    - Emilio Aguinaldo
+    - None of these
+    - Marcelo Del Pilar
+    correctAns: Graciano Jaena
+  - questionInfo: What is the oldest city in the Philippines?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: fcc990b6caa456d4995471b4f87ef8fb, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Cebu City
+    - Manila
+    - Quezon City
+    - Baguio City
+    correctAns: Cebu City
+  - questionInfo: Who was the founder of KKK
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 62d347f297c8f294cab0d8d88e8b3f26, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Andres Bonifacio
+    - Jose Rizal
+    - Lapu Lapu
+    - Apolinario Mabini
+    correctAns: Andres Bonifacio
+  - questionInfo: What is the first commercial bank established in the Philippines?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 5d7cc48436a78694792f0d057ad30110, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Citi Bank
+    - Allied Bank
+    - Bank of the Philippine Island
+    - Land Bank of the Philippines
+    correctAns: Bank of the Philippine Island
+  - questionInfo: Who invaded the Philippines on February 1565?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: a1e9f218beaee63419c7b21c1d2319d2, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ferdinand Magellan
+    - General McArthur
+    - None of these
+    - Miguel Lopez de Legaspi
+    correctAns: Miguel Lopez de Legaspi
+  - questionInfo: It is considered as the earliest form of writing in the Philippines
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: e07baec0b9cb9564c8670baba4ed577a, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Baybayin
+    - cunelform
+    - Indus scruot
+    - None of these
+    correctAns: Baybayin
+  - questionInfo: Where did the name of the Philippines came from?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 3e21432759e801c4d9425c84280c77e3, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Queen Elizabeth
+    - King Philip II
+    - King Phili I
+    - None of these
+    correctAns: King Philip II
+  - questionInfo: Who discovered the Philippines?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 68b18d5c7e4627f40a0616334eb73d8f, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ferdinand Magellan
+    - General McArthur
+    - King Philip II
+    - None of these
+    correctAns: Ferdinand Magellan
+  - questionInfo: What is the full name of Tandang Sora?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 3a809be646fdffa4c97f0c01e857e735, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Melchora Aquino
+    - Melchora Bregilla Aquino
+    - Melchora Aquino de Ramos
+    - Melchora Aquino de Leon
+    correctAns: Melchora Aquino de Ramos
+  - questionInfo: Who led the longest revolt during Spanish Time?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 3743f0d5ac700d34f86fdc8e2fb48198, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Andres Bonifacio
+    - Emilio Aguinaldo
+    - Apolinario Mabini
+    - Francisco Dagohoy
+    correctAns: Francisco Dagohoy
+  - questionInfo: Who is the 13th President of the Republic of the Philippines?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 2e82fa0f825e5bf478817a18656ba13b, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Andres Bonifacio
+    - Ninoy Aquinp
+    - Ferdinand Marcos
+    - Joseph Ejercito Estrada
+    correctAns: Joseph Ejercito Estrada
+  - questionInfo: How old was Jose Rizal when he was executed?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 18648dde456478b44880c031b96bc6d0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 36
+    - 37
+    - 35
+    - 34
+    correctAns: 36
+  - questionInfo: What is the name of the first Spanish governor-general of the Philippines?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: a1e9f218beaee63419c7b21c1d2319d2, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Andres Bonifacio
+    - Emilio Aguinaldo
+    - Apolinario Mabini
+    - Miguel Lopez de Legazpi
+    correctAns: Miguel Lopez de Legazpi
+  - questionInfo: How many siblings does Dr. Jose Rizal have?
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: 3743f0d5ac700d34f86fdc8e2fb48198, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 8
+    - 7
+    - 9
+    - 10
+    correctAns: 10
+  - questionInfo: What did The First Philippine Republic come to be called?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: bc60bc987eb9492449cb21c65b80e573, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Malolos Republic
+    - Modern Republic
+    - New Republic
+    - Old Republic
+    correctAns: Malolos Republic
+  - questionInfo: Who was the first Filipino Olympian?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 01df644a2ef7dfa45aa1bfaf6dfda9ac, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - David Nepomuceno
+    - Hidilyn Francisco
+    - Hidilyn Diaz
+    - None
+    correctAns: David Nepomuceno
+  - questionInfo: Who designed the Rizal Monument?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 8565364ca968794449baa4117406a8cb, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Carlos Nicoli
+    - Jose Rizal
+    - Apolinario Mabini
+    - Francisco Dagohoy
+    correctAns: Carlos Nicoli
+  - questionInfo: In which year were the Gomburza priests executed?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: b60144804b344fa4bbc358bfbf7921b9, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 17 February 1872
+    - 27 February 1872
+    - 19 February 1872
+    - 10 February 1872
+    correctAns: 17 February 1872
+  - questionInfo: In which year did Magellan discover the Philippines?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 68b18d5c7e4627f40a0616334eb73d8f, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 1521
+    - 1522
+    - 1523
+    - 1524
+    correctAns: 1521
+  - questionInfo: In what year did the Philippine Revolution against Spain begin?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 910edc642d8c3ed45abb1ec75a5d0bb2, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 1896
+    - 1897
+    - 1891
+    - 1890
+    correctAns: 1896
+  - questionInfo: In which year was Martial Law declared in the Philippines?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: e1017d09a12f112489534d54c83aae5c, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 1971
+    - 1972
+    - 1973
+    - 1974
+    correctAns: 1972
+  - questionInfo: Name the Philippine President who signed the Mental Health Act.
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: ed0c148baa5e9b3429c0a7321a7dd845, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Joseph Ejercito Estrada
+    - Ferdinand Marcos
+    - Rodrigo Duterte
+    - Ninoy Aquino
+    correctAns: Rodrigo Duterte
+  - questionInfo: Who signed the Rice tariffication Law?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: ed0c148baa5e9b3429c0a7321a7dd845, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Rodrigo Duterte
+    - Ferdinand Marcos
+    - Ninoy Aquino
+    - Joseph Ejercito Estrada
+    correctAns: Rodrigo Duterte
+  - questionInfo: What date was Philippine Independence proclaimed?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 910edc642d8c3ed45abb1ec75a5d0bb2, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Jun 12, 1898
+    - Jun 15, 1898
+    - Jun 13, 1898
+    - Jun 14, 1898
+    correctAns: Jun 12, 1898
+  - questionInfo: The first real battle fought between Filipinos and the Spaniards
+      is known as?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 039a94c8b6473484993ea632c6492d5b, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Battle of San Juan del Monte
+    - The Battle for Glory
+    - The Battle for the Throne
+    - The Battle for Bragging Rights
+    correctAns: Battle of San Juan del Monte
+  - questionInfo: What is the name of the Philippine President who was impeached
+      and removed from office in 2001?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 2e82fa0f825e5bf478817a18656ba13b, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Joseph Estrada
+    - Ferdinand Marcos
+    - Rodrigo Duterte
+    - Ninoy Aquino
+    correctAns: Joseph Estrada
+  - questionInfo: Who was the last Sultan of Sulu?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: f3b30cc94493a914e8e38e1b1fe4a34b, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sultan Mohammed Mahakuttah Kiram
+    - Al-Mu'tasim
+    - Abdul Hamid II
+    - Mahmud II
+    correctAns: Sultan Mohammed Mahakuttah Kiram
+  - questionInfo: The first woman to top the Philippine BAR Examination.
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 376470ec955dc7244989c9752e128e11, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Tecla San Andres Ziga
+    - Cameron Rodriguez
+    - Isabella Nguyen
+    - Elijah Martinez
+    correctAns: Tecla San Andres Ziga
+  - questionInfo: Which of the following former presidents died in a plane crash?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: b8d1c1b70ab786d4a8f4928ae44d18fd, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Rogelio de la Rosa
+    - Teresita Magsaysay
+    - Narciso Ramos
+    - Ramon del Fierro Magsaysay
+    correctAns: Ramon del Fierro Magsaysay
+  - questionInfo: When was Manuel L. Quezon inaugurated as President?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: e5aa1641e67741445b703f78dc247258, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 17 November 1935
+    - 15 November 1935
+    - 18 November 1935
+    - 25 November 1935
+    correctAns: 15 November 1935
+  - questionInfo: Who is the former Senate President who came from Abra?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 4ae671eab9e6d9e47a76627828c624d6, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Quintin B. Paredes
+    - Felipe de Paredes
+    - Francisco Paredes Herrera
+    - Raul Paredes
+    correctAns: Quintin B. Paredes
+  - questionInfo: Who first introduced the Islamic religion in the Philippines?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 2e0d8d28a89c7b94ea5bb1cab1205600, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Arab and Gujarati
+    - Paul Tudor Jones
+    - John Paulson
+    - Richard Dennis
+    correctAns: Arab and Gujarati
+  - questionInfo: What is the name of the Philippine President who declared martial
+      law in 1972?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: be8411718c888e44a976cac7b8f95ff4, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ferdinand Marcos
+    - Manuel Quezon
+    - Joseph Estrada
+    - Ninoy Aquino
+    correctAns: Ferdinand Marcos
+  - questionInfo: What is the name of the first Filipino to lead a revolt against
+      Spanish colonization?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: aab2406c8d31c0041933242a077a96ed, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Andres Bonifacio
+    - Emilio Aguinaldo
+    - Apolinario Mabini
+    - Francisco Dagohoy
+    correctAns: Emilio Aguinaldo
+  - questionInfo: In a symbolic move of independence, the Philippine flag was raised
+      on July 4, 1946, at which location?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 910edc642d8c3ed45abb1ec75a5d0bb2, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Independence Grandstand
+    - Cavite
+    - Luneta
+    - Manila
+    correctAns: Independence Grandstand
+  - questionInfo: "While at the Ateneo, Rizal met his first love. She was a pretty
+      fourteen-year-old Batangue\xF1a. Who is she?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 3800f7cf163e73e4f9082623cecaf6d1, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Seguda Katigbak
+    - Raul S. Katigbak
+    - Rolando Tinio Katigbak
+    - Roberto Katigbak
+    correctAns: Seguda Katigbak
+  - questionInfo: What was the name of the Filipino soldier who led the Cavite Mutiny
+      of 1872?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 5038f54d5b0371b419c0932180cc3a18, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Fernando La Madrid
+    - Jorge Madrid
+    - Ana Madrid
+    - Ignacio Madrid
+    correctAns: Fernando La Madrid
+  - questionInfo: In what year did Japanese forces invade and take control of the
+      Philippines?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 871cdb1f91ed51d41986b559eb3c4d97, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 8 December 1941
+    - 9 December 1941
+    - 18 December 1941
+    - 28 December 1941
+    correctAns: 8 December 1941
+  - questionInfo: For how long does England fight with the Spanish forces to take
+      control of the Philippines?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: f8b3daeb21850e04dbe20b960a5f3e49, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 7 Years
+    - 8 Years
+    - 27 Years
+    - 17 Years
+    correctAns: 7 Years
+  - questionInfo: What do you call a large collection of islands that are close together?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 75fb4be8b578f344085b57ccca0fdd92, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Archipelago
+    - Island
+    - Country
+    - Continent
+    correctAns: Archipelago

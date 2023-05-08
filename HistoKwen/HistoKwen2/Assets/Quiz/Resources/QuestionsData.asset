@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: QuestionsData
+  m_EditorClassIdentifier: 
+  categoryName: Difficulty
+  questions:
+  - questionInfo: What did spanish invaders called Pygmies, the aborigines of the
+      Philippines
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 4e64cb7c3949ac3448dc884296754e74, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sakai
+    - Negritos
+    - Malayans
+    - Malays
+    correctAns: Negritos
+  - questionInfo: What did ancient Filipinos call the supreme being in which they
+      believed?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 6eb20cdff218def4bb0f3f5cfedd1a48, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Allah
+    - Anito
+    - Bathala
+    - Diwata
+    correctAns: Bathala
+  - questionInfo: During spanish times Philippine foreign trade with spain was carried
+      out through this country.
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 1cc22a96895717d4587f5ddefff21135, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Mexico
+    - Japan
+    - Korea
+    - China
+    correctAns: Mexico
+  - questionInfo: Which of these was the head of the Philippine government during
+      Spanish period?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 199ac5ffc04ede64b8f3c346517a1fbc, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - governor-heneral
+    - alcalde mayor
+    - alcaldia
+    - gobernadocillo
+    correctAns: governor-heneral
+  - questionInfo: Who was known as "Prince of Filipino Printers"?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 7af6f847a4d28c343823d6c09de4ce13, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pedro Paterno
+    - Jose Rizal
+    - Tomas Pinpin
+    - Francisco Baltazar
+    correctAns: Tomas Pinpin
+  - questionInfo: What is the typical Visayan love song called?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 8d78c2b8ce99c374f8e33ae661cbe20c, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - balitaw
+    - oyayi
+    - harana
+    - kumintang
+    correctAns: balitaw
+  - questionInfo: Who introduced duck breeding in the Philippines?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 871cdb1f91ed51d41986b559eb3c4d97, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Japanese
+    - Indonesians
+    - Spanish
+    - Chinese
+    correctAns: Japanese
+  - questionInfo: Which of these groups in the Philippines hard the most elaborate
+      tattoss in ancient times?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: c8e889851796fdb4a8da2c0836314c5e, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Bicolanos
+    - Visayans
+    - Tagalogs
+    - Ilocanos
+    correctAns: Visayans
+  - questionInfo: What is the approximate number of islands that comprise the Philippines?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: dbfa138fc7c4d0046bffc68840d7989e, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 6500
+    - 7500
+    - 8500
+    - 9500
+    correctAns: 7500
+  - questionInfo: When did the Philippines become independent?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 910edc642d8c3ed45abb1ec75a5d0bb2, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 04-July-46
+    - 04-July-76
+    - 14-Aug-47
+    - 01-Jan-84
+    correctAns: 04-July-46

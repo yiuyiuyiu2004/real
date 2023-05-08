@@ -1,0 +1,475 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: MediumData
+  m_EditorClassIdentifier: 
+  categoryName: Moderate
+  questions:
+  - questionInfo: Who was the first Philippine President born after Spanish colonial
+      Era?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: b8d1c1b70ab786d4a8f4928ae44d18fd, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Carlos Garcia
+    - Manuel Quezon
+    - Elpidio Quirino
+    - Ramon Magsaysay
+    correctAns: Ramon Magsaysay
+  - questionInfo: Who named the Philippines as Las Islas Filipinas?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: c9660019af6a9344989e7fa37cab11e0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - King Philip II
+    - King Philip I
+    - Ferdinand Magellan
+    - Ruy Lopez Villalobos
+    correctAns: Ruy Lopez Villalobos
+  - questionInfo: Who sewn the Philippine flag?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: c2cfee545da881e4ebf90c59c769bd01, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - All of them
+    - Lorenza Agoncillo
+    - Marcela Marino Agoncillo
+    - Delfina Herbosa Natividad
+    correctAns: All of them
+  - questionInfo: Lupang Hinirang means?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: e1017d09a12f112489534d54c83aae5c, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - The Living Land
+    - The Chosen Land
+    - The Modern Land
+    - None of these
+    correctAns: The Chosen Land
+  - questionInfo: Which of the following is the National flower of Philippines?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: a4f79a02be06a7a4caa4df36381e3437, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Sampaguita
+    - Daisy
+    - Orchids
+    - Waling waling
+    correctAns: Sampaguita
+  - questionInfo: Who founded La Liga Filipina?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: b7bc7a50ccc1b114ebc00eb32d4231de, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Jose Rizal
+    - Apolinario Mabini
+    - Marcello del Pillar
+    - Graciano Lopez Jaena
+    correctAns: Jose Rizal
+  - questionInfo: She is known as the Grand woman of the Revolution?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 3a809be646fdffa4c97f0c01e857e735, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Tandang Sora and Melchora Aquino
+    - Teodora Alonza
+    - Melchora Aquino
+    - None of these
+    correctAns: Tandang Sora and Melchora Aquino
+  - questionInfo: Who was the 10th President of the Philippines?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: be8411718c888e44a976cac7b8f95ff4, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Corazon Aquino
+    - Ferdinand Marcos
+    - Fidel Ramos
+    - Elpidio Quirino
+    correctAns: Ferdinand Marcos
+  - questionInfo: He arrived in Cebu in 1565 to establish the first settlement in
+      the Philippines?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: ea7d5fa4017d4ab49940ed97995d7dba, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Ferdinand McArhur
+    - None of these
+    - Elpidio Quirino
+    - Miguel Lopez Legazpi
+    correctAns: Miguel Lopez Legazpi
+  - questionInfo: Who was the first President who served from 1946 until his death
+      in 1948?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: e5aa1641e67741445b703f78dc247258, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Elpidio Quirino
+    - Manuel Roxas
+    - Ferdinand Marcos
+    - Corazon Aquino
+    correctAns: Manuel Roxas
+  - questionInfo: The First Republic of the Philippines was established during a
+      war. Which one?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 4a1924b9308b03448b6540965274ac68, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Spanish-American War
+    - Philippine Revolution
+    - World War I
+    - Philippine-American War
+    correctAns: Philippine-American War
+  - questionInfo: After the Negritos, what was the second group of people who migrated
+      by sea to the Philippines 3,000 to 8,000 years ago?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 22064af84961a9a408eefc7e57408b75, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Japanese
+    - Indonesians
+    - Spanish
+    - Italian
+    correctAns: Indonesians
+  - questionInfo: She was the first woman member of the Katipunan.
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 1c174046b5580a047a514b29265bde9d, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Marina Dizon
+    - "Gregoria de Jes\xFAs"
+    - Segunda Katigbak
+    - Gabriela Silang
+    correctAns: "Gregoria de Jes\xFAs"
+  - questionInfo: One of the last Filipino generals who fought the Americans and
+      established the so-called 'Tagalog Republic'
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 03349c9db71e971408a39a76f6c5a285, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Macario Sakay
+    - Manuel Tinio
+    - Miguel Malvar
+    - Gregorio del Pilar
+    correctAns: Macario Sakay
+  - questionInfo: What was the occupation of Limahong, a Chinese man who invaded
+      Manila at least twice in the 16th century?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 6c6de3bee904a4b48b5f873ecd9ecbbe, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pirate
+    - Baker
+    - Businessman
+    - Painter
+    correctAns: Pirate
+  - questionInfo: For how many years did Spanish rule last in the Philippines?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: a1e9f218beaee63419c7b21c1d2319d2, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 365
+    - 415
+    - 333
+    - 323
+    correctAns: 333
+  - questionInfo: Who was the Spanish governor-general who ordered the deportation
+      of Jose Rizal to Dapitan?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 4e3c55b357a1a2d41babccddd1309cb3, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Gov. Gen. Eulogio Despujol
+    - Gov. Gen .Camilo de Polavieja
+    - Gov. Gen . Carlos Maria dela Torre
+    - Gov. Gen. Fermin Jaudenes
+    correctAns: Gov. Gen. Eulogio Despujol
+  - questionInfo: Who wrote the "Kartilya", considered the 'bible' of the Katipunan
+      movement?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 729b8c6b690a44442bc91392a57c2f7d, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Emilio Jacinto
+    - Valentin Diaz
+    - Andres Bonifacio
+    - Apolinario Mabini
+    correctAns: Emilio Jacinto
+  - questionInfo: Who was the 'Great Dissenter'?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: cd941195c2f318e4da70c17c56f91ab0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Claro M. Recto
+    - Jose Laurel
+    - Jose Rizal
+    - Epifanio de los Santos
+    correctAns: Claro M. Recto
+  - questionInfo: Who was the hero of the Battle at Tirad Pass?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: a3be46dfcef7734438b39162ceafcdfd, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Gregorio del Pilar
+    - Antonio Luna
+    - Macario Sakay
+    - Diego Silang
+    correctAns: Gregorio del Pilar
+  - questionInfo: When did Corregidor fall into the hands of the Japanese?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 871cdb1f91ed51d41986b559eb3c4d97, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - May 6, 1942
+    - January 2, 1942
+    - April 9, 1942
+    - March 5, 1942
+    correctAns: May 6, 1942
+  - questionInfo: When did a civilian government replace the military government?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 910edc642d8c3ed45abb1ec75a5d0bb2, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - July 4, 1901
+    - August 8, 1901
+    - December 6, 1901
+    - February 14, 1901
+    correctAns: July 4, 1901
+  - questionInfo: Who proposed the idea of the Philippine Autonomy Act?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 2349392a890c073448264b81f6c3ab15, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - William Atkinson Jones
+    - Sergio Osmena
+    - Manuel L. Quezon
+    - Manuel Roxas
+    correctAns: William Atkinson Jones
+  - questionInfo: Japanese general Tomoyuki Yamashita was executed for leading which
+      atrocity that occurred in Manila toward the end of World War II?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 4a1924b9308b03448b6540965274ac68, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Manila Massacre
+    - Pata Island Massacre
+    - Balangiga Incident
+    - Operation Valancy
+    correctAns: Manila Massacre
+  - questionInfo: What was the most infamous item discovered in Manila's presidential
+      palace after protestors stormed in 1986?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 9364c1752ac167f4bbbbbe74ff91877c, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Imelda Marcos' shoe collection
+    - Diamond weighing over 100 pounds
+    - A guillotine
+    - A dead body
+    correctAns: Imelda Marcos' shoe collection
+  - questionInfo: What province was in the earlier times became known far and wide
+      as the 'provincia de Comintang'?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 823793beaaf90724b9a8cfc135ed6991, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Batangas
+    - Bataan
+    - Laguna
+    - Isabela
+    correctAns: Batangas
+  - questionInfo: Where was the landing spot of the 10 Bornean datus who had escaped
+      from the rule of their sultan, Makatunaw of Borneo?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 24780d4f5110d6e4cabdd6dee9fa6956, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - San Joaquin, Panay Island
+    - Puerto Princesa, Palawan
+    - Homonhon, Samar
+    - Palo, Leyte
+    correctAns: San Joaquin, Panay Island
+  - questionInfo: What act is also known as the "Martial Law" act?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: e1017d09a12f112489534d54c83aae5c, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - R.A. 1081
+    - R.A. 274
+    - Article 6 Section 14 of the 1973
+    - 25 S. 1974
+    correctAns: R.A. 1081
+  - questionInfo: What kind of a settlement did Manila grow from in the 16th century?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: eb11d0d6206d64a4daed79ae3f3a106d, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Muslim
+    - Visayan
+    - Spanish
+    - English
+    correctAns: Muslim
+  - questionInfo: Considered the oldest sports complex in Asia, in what year was
+      the Rizal Memorial Sports Complex built?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: e1017d09a12f112489534d54c83aae5c, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 1893
+    - 1934
+    - 1920
+    - 1834
+    correctAns: 1934
+  - questionInfo: What building was the only one left intact after the destruction
+      of Intramuros during the Battle of Manila?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 266189f97867604458f6c1ce77ab3c16, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Quiapo Church
+    - Manila Cathedral
+    - Cathedral of the Child Jesus
+    - San Agustin Church
+    correctAns: San Agustin Church
+  - questionInfo: In the Philippines, Filipinos were introduced to the English language
+      in____by British invaders, not Americans.
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: e1017d09a12f112489534d54c83aae5c, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 1762
+    - 1705
+    - 1810
+    - 1785
+    correctAns: 1762
+  - questionInfo: USA bought the Philippines from Spain in____.
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: e1017d09a12f112489534d54c83aae5c, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 1898
+    - 1885
+    - 1899
+    - 1872
+    correctAns: 1898
+  - questionInfo: Who was the Filipino-American dancer who scored a perfect 1600
+      on the SAT in the state of California?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 910edc642d8c3ed45abb1ec75a5d0bb2, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Joyce Monteverde
+    - Carmen Rodriguez
+    - Janice Monteverde
+    - Maricel Reyes
+    correctAns: Joyce Monteverde
+  - questionInfo: How many ships did Ferdinand Magellan use during his voyage that
+      eventually found the Philippines?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: c9660019af6a9344989e7fa37cab11e0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 5
+    - 9000
+    - 1
+    - 10
+    correctAns: 5
+  - questionInfo: Where did Miguel Lopez de Legazpi establish San Miguel?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: fcc990b6caa456d4995471b4f87ef8fb, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Madrid
+    - Cebu
+    - Bulacan
+    - Norfolk
+    correctAns: Cebu
+  - questionInfo: Which one of these languages is not indigenous to the Philippines?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: cc429c19b5d6d9c45bafaff3c058ec3d, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Davao
+    - Waray-waray
+    - Ilokano
+    - Tagalog
+    correctAns: Davao
+  - questionInfo: Who is Manny Pacquiao fighting on November 14, 2009?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: db112d1c34029354f871391beb0e5b8e, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Miguel Cotto
+    - Oscar de la Hoya
+    - Erik Morales
+    - Floyd Mayweather Jr.
+    correctAns: Miguel Cotto
+  - questionInfo: Who is referred to as the "Father of Filipino Independence"?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 62d347f297c8f294cab0d8d88e8b3f26, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Andres Bonifacio
+    - Lapu-Lapu
+    - Manuel Quezon
+    - Emilio Aguinaldo
+    correctAns: Andres Bonifacio
+  - questionInfo: What is the name of the Philippine island that is known for its
+      beaches and diving spots?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 476729dd267cdfa42b663bd4d693b049, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Palawan
+    - Cebu
+    - La Union
+    - Zambales
+    correctAns: Palawan
